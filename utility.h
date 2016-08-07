@@ -1,4 +1,4 @@
-﻿/*Utility function for the C- compiler*/
+/*Utility function for the C- compiler*/
 
 
 #ifndef _UTILITY_H_

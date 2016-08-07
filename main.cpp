@@ -1,4 +1,4 @@
-﻿/* Main program for the C- compiler */
+/* Main program for the C- compiler */
 #include "globalVar.h"
 #include "utility.h"
 #include "lexical.h"

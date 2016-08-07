@@ -1,4 +1,4 @@
-﻿/* The lexical implementation for the C- compiler */
+/* The lexical implementation for the C- compiler */
 
 #include "globalVar.h"
 #include "utility.h"

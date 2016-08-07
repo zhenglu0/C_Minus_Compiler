@@ -1,4 +1,4 @@
-﻿
+
 /*The parser interface for the C- compiler*/
 
 #ifndef _GRAMMER_H_

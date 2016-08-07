@@ -1,4 +1,4 @@
-﻿/*Utility function implementation for the C- compiler*/
+/*Utility function implementation for the C- compiler*/
 
 #include "globalVar.h"
 #include "utility.h"

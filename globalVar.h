@@ -1,4 +1,4 @@
-﻿/*Global types and vars for C- compiler*/
+/*Global types and vars for C- compiler*/
 
 #ifndef _GLOBALVAR_H_
 #define _GLOBALVAR_H_

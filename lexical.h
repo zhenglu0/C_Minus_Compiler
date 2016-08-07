@@ -1,4 +1,4 @@
-﻿
+
 /*The lexical interface for the C- compiler*/
 
 #ifndef _LEXICAL_H_

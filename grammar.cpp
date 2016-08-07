@@ -1,4 +1,4 @@
-﻿
+
 /* C- 编译器的语法执行  */
 
 #include "globalVar.h"
