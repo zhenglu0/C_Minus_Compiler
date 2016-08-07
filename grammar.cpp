@@ -85,7 +85,7 @@ static TreeNode * args(void);
 /* argment_list -> argment_list , express | express */
 static TreeNode * argment_list(void);
 
-static void syntaxError(char * message)
+static void syntaxError(const char * message)
 { fprintf(listingfile,"\n>>> ");
   fprintf(listingfile,"语法错误存在于行 %d: %s",lineno,message);
   Error = TRUE;
