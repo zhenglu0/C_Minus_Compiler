@@ -38,9 +38,9 @@ int main(int argc, char** argv)
 
     listingfile = stdout;
 
-    fprintf(listingfile,"*********************************************\n\n",file);
+    fprintf(listingfile,"*********************************************\n\n");
     fprintf(listingfile,"**************C- 编译器: %s**************\n\n",file);
-    fprintf(listingfile,"*********************************************\n\n",file);
+    fprintf(listingfile,"*********************************************\n\n");
     fprintf(listingfile,"C- 词法分析: %s\n",file);
     if(TraceGrammar)
         while (getNextToken()!=ENDFILE);
