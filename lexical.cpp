@@ -49,7 +49,7 @@ static void ungetNextChar(void)
 /*保留字的查找表格*/
 static struct
 {
-    char* str;
+    const char* str;
     TokenType tok;
 }reservedWords[MAXRESERVED]
 =
