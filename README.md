@@ -1,2 +1,2 @@
-# C_Minus_Compiler
-Project for undergraduate compiler principle course 
+# C Minus Compiler
+Undergraduate compiler principle course final project 
